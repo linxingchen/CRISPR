@@ -1,4 +1,4 @@
-##!/home/linking/.pyenv/versions/3.5.1/bin/python
+#!/home/linking/.pyenv/versions/3.5.1/bin/python
 
 import os
 import argparse
